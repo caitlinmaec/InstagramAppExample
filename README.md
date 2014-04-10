@@ -1,3 +1,6 @@
+Assignment 0, Caitlin Cagampan, COGS 121 SP14
+
+
 Instagram Example
 ===========
 
